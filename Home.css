@@ -1648,3 +1648,9 @@
     min-height: 381px;
   }
 }
+.form {
+  position: fixed;
+  bottom: 20px;
+  margin-left: 20px;
+  padding-bottom: 5px;
+}
